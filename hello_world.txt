@@ -1,2 +1,2 @@
 Adding comments for test text
-second test line for git commit
+Adding text in VS code

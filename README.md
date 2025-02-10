@@ -1,3 +1,3 @@
 # git_test
 "Hello Odin!"
-"second test line"
+"Second test line in vs code"
